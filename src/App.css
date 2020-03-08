@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700');
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+nav {
+  max-width: 1200px;
+  text-align: center;
+  border: 5px solid lightgrey;
+  border-radius: 5px;
+  margin: 1rem auto;
+  padding: 1rem 0;
+  font-size: 1.5rem;
+}
+
+nav .active {
+  border-bottom: 5px solid lightgrey;
+}
+
+nav a {
+  margin: .5rem;
+}
