@@ -1,16 +1,6 @@
-Installation et lancement du projet : 
+Projet Node.js
 
-> npm install
+Fonctionnalités : 
 
-> npm start
-
-Projet visible sur 'localhost:3000'
-
-Lancement du projet en mode développement : 
-
-> npm test
-
-Lancement du projet en mode interactif :
-
-> npm run build
-
+  . Permet de parcourir une liste de produits et de consulter le détail de ceux-ci.
+  . Possibilité de filtrer les produits par une recherche.
